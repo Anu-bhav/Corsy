@@ -52,6 +52,7 @@ Liked the project? Donate a few bucks to motivate me to keep writing code for fr
 
 ### Multiple target Support added by me
 `./multiple_targets.sh target/target`
+> create your target file in the target folder without https://
 ### Fixed packages not found
 - added __init__.py file in utils folder
 ### Prints current target after logo
