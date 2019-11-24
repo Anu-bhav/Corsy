@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import argparse
 
 from core.utils import load_json, host
@@ -23,6 +24,7 @@ delay = args.delay
 
 def cors(target, delay, scheme=False):
 	url = target
+        print("%s target: %s" %(info, target))
 	if not target.startswith(('http://', 'https://')):
 		url = scheme + '://' + url
 	root = host(url)
