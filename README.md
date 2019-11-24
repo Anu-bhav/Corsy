@@ -51,5 +51,6 @@ Liked the project? Donate a few bucks to motivate me to keep writing code for fr
 ### Multiple target Support added by me
 `./multiple_targets.sh target/target`
 ### Fixed packages not found
-> added __init__.py file in utils folder
-> now corsy.py prints the current target from the script
+- added __init__.py file in utils folder
+### Prints current target after logo
+- now corsy.py prints the current target from the script
