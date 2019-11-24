@@ -48,6 +48,8 @@ Liked the project? Donate a few bucks to motivate me to keep writing code for fr
 - Paypal - [https://paypal.me/s0md3v](https://paypal.me/s0md3v)
 - Credit/Debit Card - [https://www.buymeacoffee.com/s0md3v](https://www.buymeacoffee.com/s0md3v)
 
+## Things I've added
+
 ### Multiple target Support added by me
 `./multiple_targets.sh target/target`
 ### Fixed packages not found
